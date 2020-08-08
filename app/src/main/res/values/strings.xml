@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusApp</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">maintenance</string>
+    <string name="google_android_map_api_key">AIzaSyCWzUXV63UEULREYHx7-mKamuYRbQemhwA</string>
+</resources>
